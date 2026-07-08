@@ -156,11 +156,3 @@ Through this project, I strengthened my ability to use SQL as a cybersecurity in
 * Google Cybersecurity Professional Certificate Lab
 
 ---
-
-Aspiring SOC Analyst | Cybersecurity Student
-
----
-
-## Licence
-
-This project is intended for educational and portfolio purposes.
