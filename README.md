@@ -156,3 +156,28 @@ Through this project, I strengthened my ability to use SQL as a cybersecurity in
 * Google Cybersecurity Professional Certificate Lab
 
 ---
+## Screenshots
+
+### After-hours Failed Login Attempts
+
+![After-hours Failed Login Attempts](queries_screenshots/01_after_hours_failed_login.png)
+
+### Login Attempts on Specific Dates
+
+![Login Attempts on Specific Dates](queries_screenshots/02_login_attempts_specific_dates.png)
+
+### Login Attempts Outside Mexico
+
+![Login Attempts Outside Mexico](queries_screenshots/03_login_attempts_outside_mexico.png)
+
+### Marketing Employees in East Offices
+
+![Marketing Employees](queries_screenshots/04_marketing_east_offices.png)
+
+### Employees in Finance or Sales
+
+![Finance or Sales](queries_screenshots/05_finance_or_sales.png)
+
+### Employees Not in Information Technology
+
+![Employees Not in IT](queries_screenshots/06_employees_not_IT.png)
